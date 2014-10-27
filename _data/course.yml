@@ -1,5 +1,5 @@
-title: Course in a box
-description: Build Your Very Own Open Course
+title: Student Data Union: take a look at your own data
+description: Get, analyze and visualize the data and access providers in the state of Washington
 modules: [start, community, learning, content, feedback, references]
 signups:
  - name: Dirk Uys
@@ -80,4 +80,9 @@ signups:
  - name: Elliot Harmon
    image: https://pbs.twimg.com/profile_images/356114067/elliotwater.jpg
    twitter: elliotharmon
-   github_username: elliotharmon
+   github_username: newtonstreet
+    name: Pam Moore
+   image: https://avatars1.githubusercontent.com/u/5142455?v=2&s=96
+   twitter: newton_street
+   github_username: newtonstreet
+   
